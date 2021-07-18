@@ -1,6 +1,5 @@
 #!/bin/bash
-#Student name: Xiaolei Hu
-#Student ID: 10485617
+
 
 ECU_web="https://www.ecu.edu.au/service-centres/MACSC/gallery/gallery.php?folder=ml-2018-campus" #variable ECU address for grep html source code as ARRAY
 unit="KB…." # kb unit for file size metric
